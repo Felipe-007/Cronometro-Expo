@@ -34,8 +34,8 @@ Utilize o **yarn** ou o **npm install** para instalar as dependências do projet
 Em seguida, inicie o projeto.
 
 ```cl
-git clone https://github.com/Felipe-007/Biscoito.git
-cd Biscoito
+git clone https://github.com/Felipe-007/Cronometro-Expo.git
+cd Cronometro-Expo
 npm i
 expo start
 ```
